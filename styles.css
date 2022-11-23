@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EAEDED;
+}
+
+.darkblue-bg {
+    background-color: #222F3E;
+}
+
+.lighterblue-bg {
+    background-color: #354758;
+}
+
+.orange-bg {
+    background-color: #F56600;
+}
+
+
+.logo-container {
+    height: 70px;
+}
+
+.logo-image {
+    width: 150px;
+    margin: 10px 30px;
+}
+
+.navbar-container {
+    display: inline-block;
+    margin-left: 35px;
+    padding: 15px 30px 15px 0;
+    font-size: 13px;
+}
+
+.navbar-container a {
+    margin-right: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.main-container {
+    width: 95%;
+    margin: auto;
+}
+
+.shop-gifts {
+    margin: 30px 0;
+}
+
+.shop-gifts p {
+    padding: 10px;
+}
+
+#shop-gifts-link {
+    text-decoration: none;
+}
+
+.main-bg.white-color {
+    background-image: url("assets/bg-image.png");
+    height: 200px;
+}
+
+.main-bg:hover {
+    background-image: url("assets/bg-img.png");
+    color: black;
+}
+
+h1 {
+    padding-top: 80px;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+.cards-section {
+    background-color: white;
+    font-weight: bold;
+}
+
+.cards-section p {
+    display: inline;
+    font-size: 18px;
+}
+
+.main-cards-container {
+    margin: 30px 0;
+    padding: 30px 30px;
+    position: relative;
+    left: 40px;
+}
+
+.cards img {
+    display: inline-block;
+    width: 290px;
+    height: 360px;
+    box-shadow: 10px 5px 5px rgb(221, 213, 213);
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-right: 42px;
+    object-fit: cover;
+}
+
+
+.shop-link {
+    font-size: 13.5px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: #197B8D;
+}
+
+
+.bottom-container {
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.bottom-container p {
+    display: inline;
+}
+
+.bottom-container img {
+    max-width: 100%;
+}
+
+.back-top {
+    height: 30px;
+    padding: 15px 0 5px;
+}
+
+
+.footer img {
+    width: 130px;
+    margin: 40px 0 40px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.white-color {
+    color: white;
+}
